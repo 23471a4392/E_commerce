@@ -101,3 +101,4 @@ npm run dev:server
 - **Admin Account**: `admin@oppenheimer.com` / `password123`
 - **Customer Account**: `alex@example.com` / `password123`
 - **Demo Coupons**: `WELCOME10` (10% OFF), `FLASH20` ($20 OFF), `SUMMER50` (15% OFF)
+# Testing
